@@ -135,15 +135,6 @@ truncate_content_length = 100
 # as well as its own search configuration and translations (see above for details on those)
 [languages]
 # For example
-[languages.fr]
-title = "Blow"
-description = "Un thème pour Zola fait avec tailwindcss"
-generate_feed = false
-taxonomies = [
-    {name = "tags", paginate_by = 5, feed = true},
-    {name = "categories", paginate_by = 5, feed = true},
-]
-# build_search_index = false
 
 # You can put any kind of data here. The data
 # will be accessible in all templates
@@ -157,6 +148,7 @@ taxonomies = [
 
 
 [extra.navbar]
+# menu
 items = [
     { lang = "en", links = [
         { url = "/", name = "Home" },
@@ -171,9 +163,9 @@ title = "Harkhymadhe"
 [extra.index]
 title = "Harkhymadhe space"
 image = "https://avatars.githubusercontent.com/u/53875630?v=4"
-image_alt = "Placeholder text describing the index's image."
+image_alt = "Harkhymadhe"
 
 [extra.default_author]
-name = "John Doe"
-avatar = "https://via.placeholder.com/200"
+name = "Benedict Emoe-kabu"
+avatar = "https://avatars.githubusercontent.com/u/53875630?v=4"
 avatar_alt = "Placeholder text describing the default author's avatar."
