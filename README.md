@@ -9,3 +9,12 @@ Link to side [arkhymadhe](https://arkhymadhe.github.io/)
 ```
 zola serve
 ```
+
+### Edit style
+```js
+// tailwindcss
+npm install //install node 
+
+// Edit files in static folder
+// tailwindcss doc https://tailwindcss.com/docs/
+```
