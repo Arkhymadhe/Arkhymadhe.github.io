@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - ai</title>
+    <subtitle>A Zola theme made with tailwindcss</subtitle>
+    <link href="https://Arkhymadhe.github.io/tags/ai/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://Arkhymadhe.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-25T00:00:00+00:00</updated>
+    <id>https://Arkhymadhe.github.io/tags/ai/atom.xml</id>
+    <entry xml:lang="en">
+        <title>first note</title>
+        <published>2023-08-25T00:00:00+00:00</published>
+        <updated>2023-08-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://Arkhymadhe.github.io/notes/first-note/" type="text/html"/>
+        <id>https://Arkhymadhe.github.io/notes/first-note/</id>
+        
+        <content type="html">&lt;p&gt;Test note &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;my-dummy-note&quot;&gt;My Dummy Note&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;p&gt;This is a dummy note to demonstrate Markdown formatting. Markdown is a lightweight markup language that allows you to format plain text easily.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;&#x2F;h2&gt;
+&lt;p&gt;Here are some examples of lists:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ordered List:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;First item&lt;&#x2F;li&gt;
+&lt;li&gt;Second item&lt;&#x2F;li&gt;
+&lt;li&gt;Third item&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unordered List:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Item A&lt;&#x2F;li&gt;
+&lt;li&gt;Item B&lt;&#x2F;li&gt;
+&lt;li&gt;Item C&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;text-formatting&quot;&gt;Text Formatting&lt;&#x2F;h2&gt;
+&lt;p&gt;You can apply various text formatting options:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;&#x2F;strong&gt;: &lt;strong&gt;This text is bold.&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Italic&lt;&#x2F;em&gt;: &lt;em&gt;This text is italicized.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;del&gt;Strikethrough&lt;&#x2F;del&gt;: &lt;del&gt;This text is strikethrough.&lt;&#x2F;del&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;&#x2F;h2&gt;
+&lt;p&gt;You can add links to websites or other documents:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.openai.com&#x2F;&quot;&gt;Visit OpenAI&#x27;s Website&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.markdownguide.org&#x2F;&quot;&gt;Read the Markdown Guide&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;&#x2F;h2&gt;
+&lt;p&gt;You can include code snippets:&lt;&#x2F;p&gt;
+&lt;p&gt;Inline code: &lt;code&gt;print(&amp;quot;Hello, Markdown!&amp;quot;)&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Code block:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;python&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-python &quot;&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;def &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;greet&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;name&lt;&#x2F;span&gt;&lt;span&gt;):
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;f&lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;Hello, &lt;&#x2F;span&gt;&lt;span&gt;{name}&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;!&lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+</feed>
